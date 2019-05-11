@@ -60,7 +60,7 @@ String absoutdir
 String type
 String CIRCexplorer2_script
 command {
-	docker run --user $EUID -v ${absoutdir}:/absoutdir -v ${fastq_path}:/fastq_path -v ${index_path}:/index_path -v ${CIRCexplorer2_script}:/CIRCexplorer2_script dockerluom/circ_find_tophat2 \
+	docker run --user $EUID -v ${absoutdir}:/absoutdir -v ${fastq_path}:/fastq_path -v ${index_path}:/index_path -v ${CIRCexplorer2_script}:/CIRCexplorer2_script dockerluom/circ_find \
 	bash /CIRCexplorer2_script/CIRCexplorer2_STAR.sh -t ${type} -s ${Samplename} -a /absoutdir -i /index_path -f /fastq_path
 }
 output {
