@@ -1,0 +1,8 @@
+{
+  "Find_circ_flow.absoutdir": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/find_circ/find_circ_results",
+  "Find_circ_flow.Sample_names": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/find_circ/paired_one_run.list",
+  "Find_circ_flow.index_path": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/CIRCexplorer2",
+  "Find_circ_flow.fastq_path": "/share/home/guogroup/luom/RNA-SEQ-DATA/paired_one_run_one_sample/Trim_data_paired_one_run_one/",
+  "Find_circ_flow.find_circ_scripts": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/find_circ/find_circ",
+  "Find_circ_flow.type": "paired"
+}

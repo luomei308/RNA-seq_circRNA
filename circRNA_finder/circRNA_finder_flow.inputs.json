@@ -1,0 +1,8 @@
+{
+  "circRNA_finder_flow.absoutdir": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/circRNA_finder/",
+  "circRNA_finder_flow.Sample_names": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/circRNA_finder/paired_one_run.list",
+  "circRNA_finder_flow.index_path": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/circRNA_finder//STAR_index/",
+  "circRNA_finder_flow.fastq_path": "/share/home/guogroup/luom/RNA-SEQ-DATA/paired_one_run_one_sample/Trim_data_paired_one_run_one",
+  "circRNA_finder_flow.circRNA_finder_script": "/share/home/guogroup/luom/leuk_analysis/circRNA_Find/circRNA_finder/circRNA_finder/",
+  "circRNA_finder_flow.type": "paired"
+}
