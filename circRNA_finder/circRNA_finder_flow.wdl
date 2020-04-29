@@ -27,15 +27,6 @@ call step_two{
 	}
 }
 
-#call step_three{
- #   input:absoutdir=absoutdir,
-#	mRIN_script_path=mRIN_script_path,
-#	config=step_two.config
-	
-}
-
-#}
-
 ##############  TASKS  ################
 #############  mkdir    ############
 task step_one{
